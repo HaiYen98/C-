@@ -1,7 +1,6 @@
 # C# OOP Practice
 
-This repository contains my C# programming exercises and
-Object-Oriented Programming (OOP) practice.
+This repository contains my C# programming exercises
 
 ## Topics
 
